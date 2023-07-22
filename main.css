@@ -1,1 +1,4 @@
-
+/* a elements direct children of div */
+div > a {
+  color: #333;
+}
